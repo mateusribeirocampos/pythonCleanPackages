@@ -1,0 +1,19 @@
+# Python Clean Packages - Requirements
+#
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# The following modules are used (all part of Python standard library):
+# - subprocess
+# - sys
+# - argparse
+# - json
+# - typing
+# - os (indirectly through other modules)
+#
+# Minimum Python version: 3.8+
+#
+# If you need to verify your Python version, run:
+# python --version
+#
+# This file is kept minimal to maintain the project's zero-dependency philosophy.
