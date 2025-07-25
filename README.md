@@ -115,7 +115,7 @@ python scripts/cleanup_packages.py --local
 python scripts/cleanup_packages.py --global
 ```
 
-## See more [EXAMPLES](docs/EXAMPLES.md) and [USAGE](docs/USAGE.md)
+## See more [examples](docs/EXAMPLES.md) and [usage](docs/USAGE.md)
 
 ### Automated Cleanup
 
