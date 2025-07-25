@@ -1,5 +1,7 @@
 # Python Clean Packages
 
+![Python Clean Logo](assets/pythonclean.png)
+
 A collection of utilities for managing and cleaning Python packages in virtual environments and global installations.
 
 ## Description
